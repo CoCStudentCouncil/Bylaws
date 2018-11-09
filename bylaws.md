@@ -8,7 +8,7 @@ geometry: margin=1in
 
 # Section 1. Powers and Duties of the Executive Board:
 The Executive Board shall ensure that Student Council is an effective organization, abiding by its constitution. All
-Executive Board members are required to attend the Town Halls, bearing emergencies, in which case the absent member
+Executive Board members are required to attend the Town Halls, barring emergencies, in which case the absent member
 shall appoint another member of Student Council temporarily. If the absent member is unreachable, remaining board
 members shall assign a temporary replacement. Such replacement should be made at least 6 hours before the meeting.
 
@@ -19,14 +19,14 @@ The responsibilities of the chairs are as follows:
   (which shall be considered to be a room whose occupancy limit is no less than 75 persons) on the Georgia Tech main
   campus in Atlanta.
 * Ensuring the constitution is followed.
-* Moderating the discussions in a manner consistent with the manner described in the constitution.
+* Moderating the discussions according to the manner described in the constitution.
 * Compiling the meeting resolution, and publishing it publicly no later than 24 hours after the meeting.
 * Meeting with the Dean of the CoC between 3 days and 2 weeks following the Town Hall to discuss the resolution.
 * Facilitating elections.
 
 The responsibilities of the Secretary are as follows:
 
-* Preparing a tentative meeting agenda for the upcoming meeting and sending it out as described in (ii).
+* Preparing a tentative meeting agenda for the upcoming meeting and distributing as described below.
 * Advertising meetings. At a minimum, this entails sending an email containing the meeting agenda to cc-newsandevents
   between one and two weeks prior to the meeting with the correct meeting time and location. A follow up email with any
   changes to the meeting time or location after this initial email should be sent to cc-newsandevents with the updated
@@ -38,7 +38,7 @@ The responsibilities of the Secretary are as follows:
 
 # Section 2. Powers and Duties of the Student Advisory Board:
 Student Advisory Board shall represent the voice of the CoC students. All members of the Student Advisory Board are
-required to attend the Town Hall meetings of Student Council, bearing emergencies, in which case the absent member shall
+required to attend the Town Hall meetings of Student Council, barring emergencies, in which case the absent member shall
 appoint another member of Student Council temporarily. If the absent member is unreachable, remaining board members
 shall assign a temporary replacement. Such replacement should be made at least 6 hours before the meeting.
 
@@ -50,13 +50,11 @@ The responsibilities of the Student Advisory Board are as follows:
 
 # Section 3. Discipline of Members:
 Chairs reserve the right to decide whether a member is acting in a disruptive way. If both of the chairs agree that the
-member is acting disruptively, the member is given a suspension, which is effective immediately, meaning that the member
-should leave the meeting if there is one in progress. The suspension time depends on the number of previous suspensions
+member is acting disruptively, the member is given a suspension effective immediately. A suspended member should leave the meeting immediately if there is one in progress. The suspension time depends on the number of previous suspensions
 the member received within the current semester. If the violation is the member’s first within the current semester, the
-suspension time is 1 week. Each additional disruptive behaviour as decided upon by the chairs, will require twice the
+suspension time is 1 week. Each additional disruptive behavior as decided upon by the chairs will require twice the
 previous suspension period. The suspension decision can be appealed by members other than the suspended member with a
-motion, which also specifies the voting mechanism, during the Town Hall. If the motion is seconded by at least the
-quorum and majority vote is present, the suspension decision is reversed. There can be at most one motion to appeal for
+motion, which also specifies the voting mechanism, during the Town Hall. If the motion is seconded by at least a majority vote and a quorum is present, the suspension decision is reversed. There can be at most one motion to appeal for
 the same member per meeting.
 
 # Section 4. Amendments:
