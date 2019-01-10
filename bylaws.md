@@ -23,6 +23,7 @@ The responsibilities of the chairs are as follows:
 * Compiling the meeting resolution, and publishing it publicly no later than 24 hours after the meeting.
 * Meeting with the Dean of the CoC between 3 days and 2 weeks following the Town Hall to discuss the resolution.
 * Facilitating elections.
+* Following up with members of the CoC administration about requests made in resolutions.
 
 The responsibilities of the Secretary are as follows:
 
